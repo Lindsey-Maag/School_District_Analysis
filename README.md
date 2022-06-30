@@ -7,7 +7,7 @@ The purpose of the inital analysis was to give an overview of key metrics to the
 ### How is the district summary affected?
 
 Original School District Analysis
-![Original School District Analysis]()
+![Original School District Analysis](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/district_summary.PNG)
 
 Updated School District Analysis
 ![Updated School District Analysis](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/district_summary_updated.PNG)
