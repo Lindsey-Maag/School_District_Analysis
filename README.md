@@ -115,3 +115,10 @@ Updated Lowest Performing Schools
   
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
  
+ Thomas High School Original Analysis
+ 
+ ![Thomas High School Original Analysis](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/THS_original.PNG)
+ 
+ Thomas High School Updated Analysis
+ 
+ ![Thomas High School Updated Analysis](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/THS_replaced.PNG)
