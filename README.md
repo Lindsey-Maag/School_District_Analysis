@@ -9,9 +9,11 @@ The purpose of the inital analysis was to give an overview of key metrics to the
 As shown below, there is minimal difference between the original and updated school district analyis.
 
 Original School District Analysis
+
 ![Original School District Analysis](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/district_summary.PNG)
 
 Updated School District Analysis
+
 ![Updated School District Analysis](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/district_summary_updated.PNG)
 
 
@@ -20,9 +22,11 @@ Updated School District Analysis
 As shown below, there is minimal difference between the original and updated school summary.
 
 Original School Summary
+
 ![Original School Summary](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/school_summary.PNG)
 
 Updated School Summary
+
 ![Updated School Summary](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/school_summary_updated.PNG)
 
 
@@ -31,15 +35,19 @@ Updated School Summary
 Thomas High School's position remains the same as the second top performing school out of all schools.
 
 Original Top Performing Schools
+
 ![Original Top Performing Schools](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/top_schools.PNG)
 
 Updated Top Performing Schools
+
 ![Updated Top Performing Schools](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/top_schools_updated.PNG)
 
 Original Lowest Performing Schools
+
 ![Original Lowest Performing Schools](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/bottom_schools.PNG)
 
 Updated Lowest Performing Schools
+
 ![Updated Lowest Performing Schools](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/bottom_schools_updated.PNG)
 
 
@@ -71,9 +79,11 @@ Updated Lowest Performing Schools
   - As shown below, there is minimal difference between the original and updated scores based on school spending. 
   
   Original Scores by School Spending
+  
   ![Original Scores by School Spending](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/school_spending.PNG)
   
   Updated Scores by School Spending
+  
   ![Updated Scores by School Spending](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/school_spending_updated.PNG)
   
   
@@ -82,9 +92,11 @@ Updated Lowest Performing Schools
   - As shown below, there is minimal difference between the original and updated scores based on school size.
 
   Original Scores by School Size
+  
   ![Original Scores by School Size](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/school_size.PNG)
 
   Updated Scores by School Size
+  
   ![Updated Scores by School Size](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/school_size_updated.PNG)
 
 
@@ -93,9 +105,11 @@ Updated Lowest Performing Schools
   - As shown below, there is minimal difference between the original and updated scores based on school type.
 
   Original Scores by School Type
+  
   ![Original Scores by School Type](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/school_type.PNG)
 
   Updated Scores by School Type
+  
   ![Updated Scores by School Type](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/school_type_updated.PNG)
   
   
