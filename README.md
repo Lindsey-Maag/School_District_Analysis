@@ -5,12 +5,84 @@ The purpose of the inital analysis was to give an overview of key metrics to the
 
 ## Results: 
 ### How is the district summary affected?
+
+Original School District Analysis
+![Original School District Analysis](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/district_summary.PNG)
+
+Updated School District Analysis
+![Updated School District Analysis](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/district_summary_updated.PNG)
+
+
 ### How is the school summary affected?
+
+Original School Summary
+![Original School Summary](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/school_summary.PNG)
+
+Updated School Summary
+![Updated School Summary](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/school_summary_updated.PNG)
+
+
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+Original Top Performing Schools
+![Original Top Performing Schools](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/top_schools.PNG)
+
+Updated Top Performing Schools
+![Updated Top Performing Schools](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/top_schools_updated.PNG)
+
+Original Lowest Performing Schools
+![Original Lowest Performing Schools](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/bottom_schools.PNG)
+
+Updated Lowest Performing Schools
+![Updated Lowest Performing Schools](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/bottom_schools_updated.PNG)
+
+
 ### How does replacing the ninth-grade scores affect the following:
+
 - Math and reading scores by grade
+
+  Original Math Scores by Grade
+  
+  ![Original Math Scores by Grade](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/math_scores_by_grade.PNG)
+  
+  Updated Math Scores by Grade
+  
+  ![Updated Math Scores by Grade](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/math_scores_by_grade_updated.PNG)
+
+  Original Reading Scores by Grade
+  
+  ![Original Reading Scores by Grade](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/reading_scores_by_grade.PNG)
+  
+  Updated Reading Scores by Grade
+  
+  ![Updated Reading Scores by Grade](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/reading_scores_by_grade_updated.PNG)
+  
+  
 - Scores by school spending
+  
+  Original Scores by School Spending
+  ![Original Scores by School Spending](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/school_spending.PNG)
+  
+  Updated Scores by School Spending
+  ![Updated Scores by School Spending](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/school_spending_updated.PNG)
+  
+  
 - Scores by school size
+
+  Original Scores by School Size
+  ![Original Scores by School Size](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/school_size.PNG)
+
+  Updated Scores by School Size
+  ![Updated Scores by School Size](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/school_size_updated.PNG)
+
+
 - Scores by school type
 
+  Original Scores by School Type
+  ![Original Scores by School Type](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/school_type.PNG)
+
+  Updated Scores by School Type
+  ![Updated Scores by School Type](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/school_type_updated.PNG)
+  
+  
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
