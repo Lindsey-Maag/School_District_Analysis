@@ -113,12 +113,14 @@ Updated Lowest Performing Schools
   ![Updated Scores by School Type](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/school_type_updated.PNG)
   
   
-## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+## Summary: 
  
- Thomas High School Original Analysis
+The updated analysis that excludes ninth grade reading and math scores from Thomas High School has mimimal difference from the original overall analysis. Also, as shown below - even with a quarter of the data excluded the percentages of students passing math, reading, and both math and reading stayed within 1% of the original analysis. 
  
- ![Thomas High School Original Analysis](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/THS_original.PNG)
+Thomas High School Original Analysis
  
- Thomas High School Updated Analysis
+![Thomas High School Original Analysis](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/THS_original.PNG)
  
- ![Thomas High School Updated Analysis](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/THS_replaced.PNG)
+Thomas High School Updated Analysis
+ 
+![Thomas High School Updated Analysis](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/THS_replaced.PNG)
