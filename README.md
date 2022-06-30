@@ -1,6 +1,7 @@
 # PyCity School District Analysis
 
-## Overview of the school district analysis: Explain the purpose of this analysis.
+## Overview of the school district analysis: 
+The purpose of the inital analysis was to give an overview of key metrics to the PyCity School Disctrict, including: top and bottom performing schools, average math and reading scores by grade level, and school performance based on budget, school size, and type of school. After initial analysis was completed, the school district as asked for additional analysis to determine if there is academic dishonesty present in the math and reading scores for ninth grade at Thomas High School. 
 
 ## Results: 
 ### How is the district summary affected?
