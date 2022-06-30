@@ -6,6 +6,8 @@ The purpose of the inital analysis was to give an overview of key metrics to the
 ## Results: 
 ### How is the district summary affected?
 
+As shown below, there is minimal difference between the original and updated school district analyis.
+
 Original School District Analysis
 ![Original School District Analysis](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/district_summary.PNG)
 
@@ -15,6 +17,8 @@ Updated School District Analysis
 
 ### How is the school summary affected?
 
+As shown below, there is minimal difference between the original and updated school summary.
+
 Original School Summary
 ![Original School Summary](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/school_summary.PNG)
 
@@ -23,6 +27,8 @@ Updated School Summary
 
 
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+Thomas High School's position remains the same as the second top performing school out of all schools.
 
 Original Top Performing Schools
 ![Original Top Performing Schools](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/top_schools.PNG)
@@ -40,6 +46,8 @@ Updated Lowest Performing Schools
 ### How does replacing the ninth-grade scores affect the following:
 
 - Math and reading scores by grade
+
+  - As shown below, math and reading scores for ninth graders in Thomas High School were replaced with NaNs. NaN means "not a number." and was therefore ninth grade scores were not included in the updated analysis.
 
   Original Math Scores by Grade
   
@@ -59,6 +67,8 @@ Updated Lowest Performing Schools
   
   
 - Scores by school spending
+
+  - As shown below, there is minimal difference between the original and updated scores based on school spending. 
   
   Original Scores by School Spending
   ![Original Scores by School Spending](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/school_spending.PNG)
@@ -69,6 +79,8 @@ Updated Lowest Performing Schools
   
 - Scores by school size
 
+  - As shown below, there is minimal difference between the original and updated scores based on school size.
+
   Original Scores by School Size
   ![Original Scores by School Size](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/school_size.PNG)
 
@@ -77,6 +89,8 @@ Updated Lowest Performing Schools
 
 
 - Scores by school type
+
+  - As shown below, there is minimal difference between the original and updated scores based on school type.
 
   Original Scores by School Type
   ![Original Scores by School Type](https://github.com/Lindsey-Maag/School_District_Analysis/blob/main/Resources/school_type.PNG)
